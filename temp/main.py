@@ -1,5 +1,4 @@
 import ast
-from codecs import encode
 def compile_ast(tree):
     return compile(tree, filename="<ast>", mode="exec")
 
@@ -10,8 +9,6 @@ tree = ast.parse(data)
 
 c = compile_ast(tree)
 exec(c)
-
-breakpoint()
 
 with open('output2.py', 'w') as fo:
     fo.write(

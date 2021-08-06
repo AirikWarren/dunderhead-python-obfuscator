@@ -1,5 +1,35 @@
-number_one = 1
-number_three = 3
+class _():
+    class __():
+        class ___():
+            pass
 
-def sum_two_nums(a:int, b:int):
+xagae = lambda s : print(s)
+
+asbatb\
+     =\
+          \
+          1
+afnaneratat\
+    =\
+        \
+        \
+        \
+         3
+
+def asdfbabrtbt(a:_\
+    .\
+        __\
+            \
+            .___, b:\
+                int\
+                    \
+                    ):
     return a+b
+
+xagae\
+    (\
+        \
+        asdfbabrtbt(3\
+            , \
+                3)\
+                    )
